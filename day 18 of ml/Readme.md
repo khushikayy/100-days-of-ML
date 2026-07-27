@@ -1,5 +1,9 @@
 # Learning web scraping for data ectracting 
 
+### google colab code file link:
+https://colab.research.google.com/drive/1kFDc_9vnd5vu-YpRniq0dCnHYaJHqf_t?usp=sharing
+---
+
 ## Features
 - Extract data from websites
 - Parse HTML content
@@ -26,6 +30,6 @@
 
 ## Author
 
-*Rishav Raj*
+*Khushi Raj*
 
 ---
