@@ -2,6 +2,10 @@
 
 Before performing any analysis, it's important to understand the dataset. Below are some common questions and the corresponding Pandas functions used to answer them.
 
+### google colab code file - 
+https://colab.research.google.com/drive/1JnlP7rIAB-K5d9mVRrdXE7JFgej3bq2n?usp=sharing
+---
+
 ## 1. How big is the dataset?
 
 Get the number of rows and columns:
