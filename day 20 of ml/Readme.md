@@ -2,6 +2,10 @@
 
 **Dataset:** `train.csv` (Titanic Dataset)
 
+### google colab file - 
+https://colab.research.google.com/drive/1uCbYTu9DZB2VVxzXqVx6r8b4CDLsmXVb?usp=sharing
+---
+
 ## Libraries Used
 
 - `pandas` – Data manipulation and analysis
