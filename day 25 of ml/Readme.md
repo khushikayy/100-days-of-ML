@@ -1,5 +1,9 @@
 # Feature Scaling
 
+### google colab code file link:
+https://colab.research.google.com/drive/15J1SaEPHsKY46el6CO_xjQHjmBlJ8XCN?usp=sharing
+---
+
 ## Normalization
 
 **Normalization** is a feature scaling technique that transforms numerical features to a common scale without distorting the relationships between their values. It is commonly used when features have different ranges.
