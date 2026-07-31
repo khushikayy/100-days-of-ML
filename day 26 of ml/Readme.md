@@ -1,5 +1,9 @@
 # Encoding Categorical Data
 
+### google colab code file link:
+https://colab.research.google.com/drive/19obQ5TQGOLmmLgDOK3-usuTUP8smL9Kj?usp=sharing
+---
+
 Categorical data contains values that represent categories instead of numbers.
 
 ## Types of Data
