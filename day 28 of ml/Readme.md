@@ -1,5 +1,9 @@
 # Column Transformer in Scikit-learn
 
+### google colab code file link:
+https://colab.research.google.com/drive/1zrfr7PhB2DpYyzfk8s-N14RK-k6t8TyR?usp=sharing
+---
+
 ## Overview
 
 Machine learning datasets often contain different types of features:
