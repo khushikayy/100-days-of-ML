@@ -1,5 +1,10 @@
 # Scikit-learn Pipeline
 
+### google colab code file link:
+part 1 a:https://colab.research.google.com/drive/1Oaj5CcdzbJ7xbBe9MXZnD2HaA1-Zu5sl?usp=sharing
+part 1 b:https://colab.research.google.com/drive/1arWCrT7WX8oC1-8yANQ8wFhHQDE7i14F?usp=sharing
+---
+
 ## Overview
 
 A **Pipeline** in Scikit-learn chains together multiple machine learning steps so that the output of one step becomes the input to the next step.
