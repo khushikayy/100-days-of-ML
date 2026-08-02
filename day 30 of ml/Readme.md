@@ -3,7 +3,7 @@
 Mathematical transformations are used to reduce skewness, stabilize variance, and make data closer to a normal distribution. This helps many machine learning algorithms perform better.
 
 ---
-
+### Google colab code file : https://colab.research.google.com/drive/1NDWAjUt6o_8f2u45GsMqQ91BTZHSlrGG?usp=sharing
 # Common Mathematical Transformations
 
 ## 1. Log Transformation
