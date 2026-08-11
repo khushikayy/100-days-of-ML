@@ -1,5 +1,9 @@
 # Encoding Numerical Features
 
+### google colab code file link:
+https://colab.research.google.com/drive/1mk7Xwa_CoG0JLi2v9Z1N1FnFVNHYsZ1x?usp=sharing  
+--
+
 Numerical features can be transformed into a more useful representation using **encoding techniques**. Two common techniques are:
 
 1. **Discretization (Binning)**
