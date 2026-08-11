@@ -1,5 +1,9 @@
 # Mixed Data
 
+### google colab code file link:
+https://colab.research.google.com/drive/1-TTZK6RhsZhcKWK6HGPApQkQjKIiD5Lq?usp=sharing  
+---
+
 ## Introduction
 
 **Mixed data** refers to a dataset that contains different types of values or variables, such as:
