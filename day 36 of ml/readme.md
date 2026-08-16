@@ -1,3 +1,8 @@
+## Google colab code file :
+day_36_of_ML_Mean_median_imputation : https://colab.research.google.com/drive/1LYJdvG6onCSdLEwZuyka7bCZQxkZeuvY?usp=sharing  
+day_36_of_ML_arbitrary_value_imputation : https://colab.research.google.com/drive/1SE2ubJl5tWkmq4Pf-3DjUGdSHDDLRCwa?usp=sharing   
+day_36_of_ML_end_of_distribution_imputation : https://colab.research.google.com/drive/1ubNxbfoaeg8MoM7h1Jqpsfytj0EZT1zl?usp=sharing   
+
 # Handling Missing Numerical Values
 
 Missing numerical values can be handled mainly using **univariate imputation** and **multivariate imputation**.
