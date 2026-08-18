@@ -1,3 +1,7 @@
+## Google Colab Code file: 
+https://colab.research.google.com/drive/18rf6hTL6kYrvYlPrvzdHecnRwFkRZEKC?usp=sharing
+
+
 # Multivariate Imputation using KNN Imputer
 
 ## 1. What is Multivariate Imputation?
