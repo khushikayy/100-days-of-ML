@@ -1,3 +1,7 @@
+### Google colab code file link:
+https://colab.research.google.com/drive/1IwPkvxGmjXFs63iXx4nIKP3eGCihzqDu?usp=sharing  
+---
+
 # MICE — Multivariate Imputation by Chained Equations
 
 A short and simple guide to **MICE (Multivariate Imputation by Chained Equations)** for handling missing values in a dataset.
