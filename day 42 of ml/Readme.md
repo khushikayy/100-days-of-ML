@@ -1,3 +1,7 @@
+### Google colab code file link:
+https://colab.research.google.com/drive/1YBcjCnhMd1R-iBkRy4qRz_Uit_jbEZHv?usp=sharing  
+---
+
 # Outlier Removal Using Z-Score
 
 ## Overview
