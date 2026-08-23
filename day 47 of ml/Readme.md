@@ -1,4 +1,7 @@
+## Google Colab code file:
+day_47_of_ML_step_by_step-sol.ipynb: https://colab.research.google.com/drive/1awianVrzffroW2N-YiSBldLZnccO_FOl?usp=sharing  
 
+day_47_of_ML_PCA_MNIST_dataset.ipynb: https://colab.research.google.com/drive/1DEXvuw9GfZbVXnSH4qKEYzggPmjq8nHh?usp=sharing
 
 
 # PCA (Principal Component Analysis)
