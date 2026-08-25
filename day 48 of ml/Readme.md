@@ -1,7 +1,7 @@
-### google colab code file link:
-day_48_of_ML: https://colab.research.google.com/drive/1JqiXTVDfG4bgvSxPCKRUFgkgk_xyKXFK?usp=sharing  
-day_48_of_ML_2: https://colab.research.google.com/drive/1IR-s_7o9rLCepHDKrXJNlLBeKjTfrF5n?usp=sharing  
----
+## google colab code file link:
+day_48_of_ML: https://colab.research.google.com/drive/1JqiXTVDfG4bgvSxPCKRUFgkgk_xyKXFK?usp=sharing   
+day_48_of_ML_2: https://colab.research.google.com/drive/1IR-s_7o9rLCepHDKrXJNlLBeKjTfrF5n?usp=sharing    
+
 
 # Linear Regression
 
